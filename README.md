@@ -1,2 +1,2 @@
 # What is this project?
-This is an app that creates PDF invoices out of Excel files
+A script is designed to read invoice records from Excel files and generate PDF invoices automatically.
